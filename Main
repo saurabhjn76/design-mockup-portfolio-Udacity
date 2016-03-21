@@ -52,12 +52,24 @@
             			<p><a href="https://github.com/saurabhjn76/Race-the-car">Race the Car</a></p>
             		</footer>
             	</section>
+
+            	<section class ="row-feature">
+            		<div class="img-feature">
+            			<img src="images/blog-mockup.png" class="img-responsive" alt="Blog-Mockup">
+            			</div>
+            		<footer class="text-feature">
+            		<p><a href="https://github.com/saurabhjn76/mockup-to-article-Udacity">MockUP-to-article</a></p>
+            		</footer>
+            	</section>
+            	<section class ="row-feature">
+            		<div class="img-feature">
+            			<img src="images/logo2.jpg" class="img-responsive" alt="MusicGenie">
+            			</div>
+            		<footer class="text-feature">
+            		<p><a href="https://github.com/bxute/musicgenie">Music Application</a></p>
+            		</footer>
+            	</section>
             </section>
-
-
-
-
-
     </section>
 
 
