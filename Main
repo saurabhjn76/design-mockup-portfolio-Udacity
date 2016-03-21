@@ -41,7 +41,19 @@
                     <h3>Featured Work</h3>
                 </div>
             </section>
-            
+
+            <!-- tiles for work -->
+            <section class="row">
+            	<section class ="row-feature">
+            		<div class="img-feature">
+            			<img src="images/race_the_car.png" class="img-responsive" alt="Race the Car">
+            			</div>
+            		<footer class="text-feature">
+            			<p><a href="https://github.com/saurabhjn76/Race-the-car">Race the Car</a></p>
+            		</footer>
+            	</section>
+            </section>
+
 
 
 
